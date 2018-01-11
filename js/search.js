@@ -34,7 +34,7 @@
         }
         return;
       }
-      window.location.href = 'https://duckduckgo.com/?q=' + search;
+      window.location.href = 'https://www.google.com/search?q=' + search;
     }
   }
 })()
